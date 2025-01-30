@@ -28,6 +28,7 @@ This repository contains **best practices, architecture principles, and real-wor
 This repository serves as a **knowledge hub** for building **scalable, secure, and high-performance applications**. Whether you're a developer, architect, or DevOps engineer, you'll find **real-world strategies** to help you design and deploy modern systems.  
 
 ---
+
 ## 🚀 Stay Connected
 🔗 **Learn More:** [Your Website](https://cycolis-software.ro/home)  
 💻 **Explore Our Work:** [GitHub](https://github.com/Cycolis-Software)  
