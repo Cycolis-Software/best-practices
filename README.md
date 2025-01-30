@@ -17,7 +17,8 @@ This repository contains **best practices, architecture principles, and real-wor
 - [Clean Architecture](docs/clean-architecture.md)
 
 📌 **Cloud & DevOps**  
-- [Kubernetes Deployment Best Practices](docs/kubernetes-best-practices.md)  
+- [Kubernetes Deployment Best Practices](docs/kubernetes-best-practices.md)
+- [Automation Testing Strategies](docs/automation-testing-strategies.md)  
 - [CI/CD Pipelines for Microservices](docs/ci-cd-best-practices.md)  
 
 📌 **Security & Authentication**  
