@@ -22,7 +22,7 @@ This repository contains **best practices, architecture principles, and real-wor
 - [CI/CD Pipelines for Microservices](docs/ci-cd-best-practices.md)  
 
 📌 **Security & Authentication**  
-- [Implementing Secure Authentication](docs/authentication.md)  
+- [Implementing Secure Authentication](docs/authentication-and-authorization.md)  
 - [Single Sign-On (SSO) Strategies](docs/sso-strategy.md)  
 
 ## ⭐ Why This Repo?
