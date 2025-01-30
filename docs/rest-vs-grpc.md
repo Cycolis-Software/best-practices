@@ -89,6 +89,7 @@ Many modern systems **combine REST and gRPC** to get the best of both worlds.
 By strategically using **REST for stateful resources** and **gRPC for high-performance actions**, you can design **scalable, efficient, and maintainable microservices architectures**.
 
 ---
+
 ## 🚀 Stay Connected
 🔗 **Learn More:** [Your Website](https://cycolis-software.ro/home)  
 💻 **Explore Our Work:** [GitHub](https://github.com/Cycolis-Software)  
