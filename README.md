@@ -1,6 +1,6 @@
 # 🚀 Architecture Best Practices & Technical Guidelines  
 
-Welcome to the **[Cycolis-Software]** technical knowledge base!  
+Welcome to the **Cycolis-Software** technical knowledge base!  
 This repository contains **best practices, architecture principles, and real-world strategies** for:  
 
 ✅ **Microservices & API Design** (REST, gRPC)  
